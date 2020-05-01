@@ -50,3 +50,7 @@ button:disabled {
 .terms {
   display: inline-block;
 }
+
+.errors {
+  color:red;
+}
